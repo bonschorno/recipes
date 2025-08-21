@@ -10,3 +10,7 @@ theme = "paper"
     name = "Recipes"
     url = "/recipes/"
     weight = 10
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

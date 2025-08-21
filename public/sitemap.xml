@@ -8,6 +8,18 @@
     <loc>http://localhost:1313/recipes/</loc>
     <lastmod>2025-08-22T00:06:35+02:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/recipes/sweet-stuff/</loc>
+    <lastmod>2025-08-21T22:45:50+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipes/fluffiest-pancakes/</loc>
+    <lastmod>2025-08-21T22:23:17+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipes/sweet-stuff/puffpuff/</loc>
+    <lastmod>2025-08-21T22:19:37+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipes/sweet-stuff/maritozzi/</loc>
+    <lastmod>2025-08-21T22:00:56+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
