@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ciccio&#39;s recipes</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Ciccio&#39;s recipes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Aug 2025 22:19:37 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nigerian Puffpuff 🇳🇬</title>
+      <link>http://localhost:1313/recipes/sweet-stuff/puffpuff/</link>
+      <pubDate>Thu, 21 Aug 2025 22:19:37 +0200</pubDate>
+      <guid>http://localhost:1313/recipes/sweet-stuff/puffpuff/</guid>
+      <description>&lt;p&gt;Dry ingredients:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;250g all-purpose flour&lt;/li&gt;&#xA;&lt;li&gt;5g instant yeast&lt;/li&gt;&#xA;&lt;li&gt;60g sugar&lt;/li&gt;&#xA;&lt;li&gt;0.5g salt&lt;/li&gt;&#xA;&lt;li&gt;A lot (~ 1-2g) nutmeg&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Wet ingredients:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;300 ml lukewarm water&lt;/li&gt;&#xA;&lt;li&gt;Vegetable oil for frying&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;How to make them:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Mix the dry ingredients first, then combine with wet ingredients&lt;/li&gt;&#xA;&lt;li&gt;Let the dough rise for an hour (or until double in size)&lt;/li&gt;&#xA;&lt;li&gt;Deep fry at 150-180C until golden brown&lt;/li&gt;&#xA;&lt;li&gt;Sprinkle with powdered sugar (if sweet) or eat with a spicy tomato sauce (if savory)&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Maritozzi</title>
+      <link>http://localhost:1313/recipes/sweet-stuff/maritozzi/</link>
+      <pubDate>Thu, 21 Aug 2025 22:00:56 +0200</pubDate>
+      <guid>http://localhost:1313/recipes/sweet-stuff/maritozzi/</guid>
+      <description>&lt;p&gt;What if I write something here&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

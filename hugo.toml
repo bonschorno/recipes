@@ -1,0 +1,12 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "Ciccio's recipes"
+theme = "paper"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "recipes"
+    name = "Recipes"
+    url = "/recipes/"
+    weight = 10
